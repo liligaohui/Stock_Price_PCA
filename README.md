@@ -1,4 +1,4 @@
-# Project 1 – Factors Influencing Stock Price Movements
+# Factors Influencing Stock Price Movements
 
 This project explores the potential factors that may influence stock price changes. Rather than focusing on price prediction, the goal is to identify which macroeconomic or company-specific variables are statistically associated with stock returns.
 
